@@ -25,7 +25,7 @@ This project is created for learning purposes and to practice front-end web deve
 
 <ol>
   <li><b>Clone the repository:</b>git clone https://github.com/Ayushijaiswal20/Spotify-Clone-.git
-/li>
+</li>
   <li><b>Navigate to the project directory:</b>cd Spotify-Clone-
 </li>
 </ol>
